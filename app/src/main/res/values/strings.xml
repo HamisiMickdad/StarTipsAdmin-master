@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Star Tips Admin</string>
+    <string name="action_settings">Settings</string>
+    <string name="_23_june">date</string>
+    <string name="post">post</string>
+    <string name="post_time">time</string>
+
+
+    <array name="entries">
+        <item>Daily Tips</item>
+        <item>Daily Two Plus Tips</item>
+        <item>Mega Jackpot Tips</item>
+        <!--<item>TAG</item>
+        <item>viparchive</item>-->
+
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
